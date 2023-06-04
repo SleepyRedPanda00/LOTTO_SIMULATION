@@ -8,6 +8,7 @@ The user's task is to pick 6 numbers from the range
 that he or she thinks are winning.
 
 If the numbers selected by the user match the numbers drawn, the user wins.
+
 The degree of winning depends on the number of similar numbers.
 
 We wish you good luck !
