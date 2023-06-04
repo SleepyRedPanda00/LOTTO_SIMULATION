@@ -1,2 +1,2 @@
-# LOTTO_SYMULATION
-Play LOTTO SYMULATION and try your luck =) 
+# LOTTO_SIMULATION
+Play LOTTO SIMULATION and try your luck =) 
